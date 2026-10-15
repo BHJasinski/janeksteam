@@ -55,3 +55,8 @@ Dane lądów world-atlas 2.0.2 — Natural Earth, public domain.
 https://github.com/d3/d3
 https://github.com/topojson/topojson-client
 https://github.com/topojson/world-atlas
+
+POSTAĆ JASIA
+Grafika: assets/images/jas-przewodnik.png (PNG z kanałem przezroczystości).
+Sekcja z Jasiem znajduje się pod modelem i osią czasu. Na telefonie ma układ pionowy.
+Przycisk „Wracam do globu” prowadzi do suwaka roku.
