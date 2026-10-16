@@ -30,10 +30,14 @@ Nie wymaga instalacji, kluczy API ani płatnego serwera.
 Wszystkie zasoby modelu są w paczce; źródła historyczne otwierają zewnętrzne witryny.
 
 MODEL HISTORYCZNY
-20 wybranych połączeń z lat 1825–1906, a nie cała historyczna sieć.
-Przebiegi są uproszczone przez punkty orientacyjne. Rok oznacza otwarcie
-pokazanego odcinka lub ukończenie połączenia. Model nie odwzorowuje kolejnych
-etapów budowy ani późniejszych zamknięć. Źródła znajdują się przy opisach tras.
+34 wybrane linie i połączenia z lat 1825–1920, a nie cała historyczna sieć.
+Przebiegi są uproszczone przez punkty orientacyjne i pokazują wybrane linie
+oraz ważne połączenia na sześciu kontynentach, a nie kompletną sieć torów. Rok
+oznacza otwarcie pokazanego odcinka lub ukończenie połączenia. Czasem data
+ukończenia budowy linii różni się od daty pierwszego otwartego odcinka.
+Model ma charakter narastający i nie odtwarza zamknięć linii (wyjątkiem jest
+krótko działająca kolej Szanghaj–Wusong, widoczna do 1876 r.). Każda trasa ma
+indywidualne źródło historyczne przy opisie.
 Glob wykorzystuje rzut ortograficzny, obrót sferyczny i stylizowane oświetlenie.
 Warstwa geograficzna nie przedstawia historycznych granic państw.
 
@@ -41,8 +45,8 @@ KONTROLA
 Kliknij „Odtwórz historię”, aby uruchomić oś czasu.
 Przesunięcie suwaka zatrzymuje odtwarzanie.
 Przeciągaj glob myszką lub palcem. Przyciski strzałek umożliwiają obrót z klawiatury.
-Przyciski Europa i USA przybliżają odpowiedni obszar.
-Wybranie połączenia przybliża jego trasę.
+Przyciski Europa, USA i Azja przybliżają odpowiedni obszar.
+Wybranie trasy przybliża jej przebieg.
 
 PROJEKT
 Oryginalny interfejs w jasnej stylistyce gier symulacyjnych.
